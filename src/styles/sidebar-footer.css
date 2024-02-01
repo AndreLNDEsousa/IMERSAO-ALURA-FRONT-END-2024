@@ -43,7 +43,7 @@ body{
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
-    }
+}
 
 .library{
     background-color:#121212;
@@ -166,8 +166,6 @@ body{
     border-radius:20px;
 }
 
-/*footer*/
-
 .disclaimer-premium {
     position: fixed;
     bottom: 0;
@@ -206,4 +204,3 @@ body{
     cursor: pointer;
     flex-shrink: 0;
 }
-
